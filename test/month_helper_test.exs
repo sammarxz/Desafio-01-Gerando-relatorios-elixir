@@ -15,7 +15,7 @@ defmodule GenReport.MonthHelperTest do
     test "given an invalid param, returns an error message" do
       response = MonthHelper.get_month_name("03") 
 
-      expected_response = "please use only integers numbers from 1 to 12"
+      expected_response = "Use apenas números inteiros de 1 a 12, por favor :)"
 
       assert response == expected_response
     end

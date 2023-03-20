@@ -26,5 +26,5 @@ defmodule GenReport.MonthHelper do
   }
 
   def get_month_name(num) when num  >= 1 and num <= map_size(@months), do: @months[num]
-  def get_month_name(_num), do: "please use only integers numbers from 1 to 12"
+  def get_month_name(_num), do: "Use apenas números inteiros de 1 a 12, por favor :)"
 end
