@@ -1,6 +1,6 @@
 # Desafio 03 Ignite Elixir 
 
-Esse é um desafio da trilha de Elixir do Ignite criado pela RocketSeat.
+Resolução do desafio do Módulo 02 da trilha Ignite Elixir feito pela @RocketSeat.
 
 ## 💻 Sobre o desafio
 Nesse desafio, você deverá gerar um relatório a partir de um arquivo `.csv`.
