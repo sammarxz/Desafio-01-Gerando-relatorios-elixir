@@ -1,0 +1,29 @@
+{
+  "excluded": [],
+  "failed": [],
+  "invalid": [],
+  "passed": [
+    {
+      "describe": "get_month_name/1",
+      "file": "/home/sammarxz/Documentos/code/elixir/Desafio-01-Gerando-relatorios-elixir/test/parser_test.exs",
+      "line": 28,
+      "module": "Elixir.GenReport.ParserTest",
+      "test": "test get_month_name/1 given an invalid param, returns an error message"
+    },
+    {
+      "describe": "parse_file/1",
+      "file": "/home/sammarxz/Documentos/code/elixir/Desafio-01-Gerando-relatorios-elixir/test/parser_test.exs",
+      "line": 7,
+      "module": "Elixir.GenReport.ParserTest",
+      "test": "test parse_file/1 parses the file"
+    },
+    {
+      "describe": "get_month_name/1",
+      "file": "/home/sammarxz/Documentos/code/elixir/Desafio-01-Gerando-relatorios-elixir/test/parser_test.exs",
+      "line": 20,
+      "module": "Elixir.GenReport.ParserTest",
+      "test": "test get_month_name/1 given a number, returns the proper month name"
+    }
+  ],
+  "skiped": []
+}
